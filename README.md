@@ -1,25 +1,36 @@
 # programming-porfolio
+Below is a list of scripts/programs I have either written or co-written, sections are by language with details on each item and an associated link for more
+## Python
+### Intermittent Current Interrupt analysis for MACCOR electrochemical data
+**Summary:**
 
-**Python**
+**Link:**
 
-Cycling data
+### Plotting and analysis of electrochemical cycling data
+**Summary:**
 
-ICI
+**Link:**
 
-EDS distribution
+### SEM particle size analysis tool
 
-Particle size analysis
+### SEM-EDS elemental distribution tool
 
+## R
+### Plotting and analysis of electrochemical cycling data
+**Summary:**
 
-**R**
-Meta analysis of data
+**Link:**
 
-General plots
+### General Plotting Runfiles
+**Summary:**
 
-**MATLAB**
-Non linear fitting of data using alternate k1k2 data
+**Link:**
 
-Plotting of data
+## MATLAB
+### Non linear fitting of data using alternative electrochemical fitting
+**Summary:**
 
+**Link:**
 
-**SQL**
+## SQL
+I am learning it!
