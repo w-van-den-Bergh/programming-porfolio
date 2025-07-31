@@ -4,38 +4,33 @@ Below is a list of scripts/programs I have either written or co-written, section
 ### Intermittent Current Interrupt analysis for MACCOR electrochemical data
 **Summary:** A script which is used to analzye MACCOR data that was using an intermittent current interrupt procedure [Link to paper](https://www.nature.com/articles/s41467-023-37989-6)
 
-**Link:** [Jupyter Notebook]
+**Link:** [Jupyter Notebook](https://github.com/w-van-den-Bergh/programming-porfolio/blob/main/python-analysis-code/ici_analysis_V2.ipynb)
 
 ### Plotting and analysis of electrochemical cycling data
 **Summary:** A script used to plot MACCOR data for simple electrochemical cycling
 
-**Link:** [Jupyter Notebook]
+**Link:** [Jupyter Notebook](https://github.com/w-van-den-Bergh/programming-porfolio/blob/main/python-analysis-code/maccor_analysis_V2.ipynb)
 
 ### SEM particle size analysis tool
 **Summary:** A tool used to do image particle size analysis and plotting from SEM data
 
-**Link:** [Jupyter Notebook]
+**Link:** [Jupyter Notebook](https://github.com/w-van-den-Bergh/programming-porfolio/blob/main/python-analysis-code/process_SEM_CS_DomainSize-VOLUME.ipynb)
 
 ### SEM-EDS elemental distribution tool
 **Summary:** A tool to measure the distribution of cross-sectional SEM-EDS data to determine if there is elemental non-uniformity across the material
 
-**Link:** [Jupyter Notebook]
+**Link:** [Jupyter Notebook](https://github.com/w-van-den-Bergh/programming-porfolio/blob/main/python-analysis-code/process_EDS_netcount_maps_distribution.ipynb)
 
 ### Physical characterization plotting scripts
 **Summary:** A collection of scripts for plotting rheology, particle size distributions, and peel testing data complete with instructions on how to use
 
-**Link:** [Jupyter Notebooks]
+**Link:** [Jupyter Notebooks](https://github.com/w-van-den-Bergh/programming-porfolio/tree/main/python-analysis-code/phys-char)
 
 ## R
 ### Plotting and analysis of electrochemical cycling data
-**Summary:**
+**Summary:** Electrochemical data analysis runfiles for MACCOR data inluding dQdV, capacity, charge-discharge, and summarization of data
 
-**Link:** [R files]
-
-### General Plotting Runfiles
-**Summary:**
-
-**Link:** [R files]
+**Link:** [R files](https://github.com/w-van-den-Bergh/programming-porfolio/tree/main/r-analysis-code)
 
 ## MATLAB
 ### Non linear fitting of data using alternative electrochemical fitting
